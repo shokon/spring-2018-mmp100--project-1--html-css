@@ -21,6 +21,6 @@ Submit this project by issuing a pull request to the original repo *by 5:00 PM o
 
 ## Grading
 
-`50%`: Following these instructions 
-`25%`: Neat and valid HTML.
+`50%`: Following these instructions.  
+`25%`: Neat and valid HTML.  
 `25%`: Neat and valid CSS.
